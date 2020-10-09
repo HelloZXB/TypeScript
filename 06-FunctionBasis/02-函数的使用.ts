@@ -4,4 +4,4 @@ function sing() {
 }
 
 // 调用函数
-sing(); 
+sing();
